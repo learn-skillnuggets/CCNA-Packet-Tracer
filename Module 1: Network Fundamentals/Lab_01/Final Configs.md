@@ -1,7 +1,5 @@
 *** R1 FINAL CONFIG ***
 -----------------------
-enable
-configure terminal
 
 hostname R1
 no ip domain-lookup
@@ -43,13 +41,11 @@ interface GigabitEthernet0/1
 ip route 192.168.20.0 255.255.255.0 10.0.0.2
 
 end
-write memory
+
 
 
 *** R2 FINAL CONFIG ***
 -----------------------
-enable
-configure terminal
 
 hostname R2
 no ip domain-lookup
@@ -91,13 +87,11 @@ interface GigabitEthernet0/1
 ip route 192.168.10.0 255.255.255.0 10.0.0.1
 
 end
-write memory
+
 
 
 *** SW1 FINAL CONFIG ***
 ------------------------
-enable
-configure terminal
 
 hostname SW1
 no ip domain-lookup
@@ -125,13 +119,11 @@ interface vlan 1
 ip default-gateway 192.168.10.1
 
 end
-write memory
+
 
 
 *** SW2 FINAL CONFIG ***
 ------------------------
-enable
-configure terminal
 
 hostname SW2
 no ip domain-lookup
@@ -159,4 +151,4 @@ interface vlan 1
 ip default-gateway 192.168.20.1
 
 end
-write memory
+
