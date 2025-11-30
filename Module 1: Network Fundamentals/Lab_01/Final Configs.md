@@ -2,6 +2,7 @@
 -----------------------
 
 hostname R1
+
 no ip domain-lookup
 
 username YouTube secret 5 $1$mERr$ikPvZ8Uh.Sbt9UC87b5Xb.
@@ -48,6 +49,7 @@ end
 -----------------------
 
 hostname R2
+
 no ip domain-lookup
 
 username YouTube secret 5 $1$mERr$ikPvZ8Uh.Sbt9UC87b5Xb.
@@ -94,6 +96,7 @@ end
 ------------------------
 
 hostname SW1
+
 no ip domain-lookup
 
 username YouTube secret 5 $1$mERr$ikPvZ8Uh.Sbt9UC87b5Xb.
@@ -126,6 +129,7 @@ end
 ------------------------
 
 hostname SW2
+
 no ip domain-lookup
 
 username YouTube secret 5 $1$mERr$ikPvZ8Uh.Sbt9UC87b5Xb.
