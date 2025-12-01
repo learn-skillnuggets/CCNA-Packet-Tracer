@@ -1,3 +1,5 @@
+![CCNA 200-301 Complete Lab Collection main image](https://github.com/learn-skillnuggets/CCNA-Packet-Tracer/blob/86fdf4d65ea76ac7f6497e19b891f2874900f0f0/CCNA%20Packet%20Tracer.png)
+
 # CCNA-Packet-Tracer
 
 # CCNA 200-301 Complete Lab Collection
