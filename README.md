@@ -126,9 +126,6 @@ This repository contains professional-grade lab exercises created by an 18-year 
 
 Contributions are welcome! If you find errors, have suggestions for improvements, or want to add additional labs, please open an issue or submit a pull request.
 
-## License
-
-[Specify your license here - e.g., MIT, GPL, Creative Commons, etc.]
 
 ## Support This Project
 
@@ -140,7 +137,7 @@ If you find these labs helpful, please:
 
 ## Contact
 
-[Your contact information or links to YouTube/Udemy if you want to include them]
+https://www.youtube.com/@SkillNuggets
 
 ---
 
